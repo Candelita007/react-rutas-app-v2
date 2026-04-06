@@ -119,18 +119,3 @@ export default function Message({ user }) {
     </div>
   );
 }
-
-// index.css (usar Tailwind o estilos propios)
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-// Instrucciones:
-// 1. Crear proyecto: npm create vite@latest
-// 2. Instalar dependencias: npm install react-router-dom
-// 3. Instalar Tailwind (opcional para responsive)
-// 4. Ejecutar: npm run dev
-
-// TXT (entregar):
-// Link GitHub: https://github.com/tuusuario/tu-repo
-// Link Deploy: https://tu-app.vercel.app
